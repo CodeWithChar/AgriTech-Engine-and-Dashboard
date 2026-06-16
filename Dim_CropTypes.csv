@@ -1,0 +1,5 @@
+Crop_ID,Crop_Name,Min_Optimal_Moisture,Max_Optimal_Moisture
+CRP_01,Cotton,35.0,60.0
+CRP_02,Wine Grapes,20.0,45.0
+CRP_03,Maize,40.0,70.0
+CRP_04,Alfalfa,45.0,75.0

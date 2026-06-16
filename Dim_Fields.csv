@@ -1,0 +1,7 @@
+Field_ID,Field_Name,Region,Size_Acres,Soil_Type,Crop_ID
+FLD_01,North Pivot,Texas (Lubbock),120,Sandy Loam,CRP_03
+FLD_02,South Cotton Plains,Texas (Lubbock),250,Clay,CRP_01
+FLD_03,East Vineyard,Western Cape,85,Loamy Sand,CRP_02
+FLD_04,West Maize,Western Cape,150,Silt Loam,CRP_03
+FLD_05,Delta Orchard,Texas (Lubbock),110,Clay Loam,CRP_01
+FLD_06,Valley Alfalfa,Western Cape,95,Alluvial,CRP_04
